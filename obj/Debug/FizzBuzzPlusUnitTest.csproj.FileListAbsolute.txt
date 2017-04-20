@@ -1,0 +1,6 @@
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\FizzBuzzPlusUnitTest\FizzBuzzPlusUnitTest\bin\Debug\FizzBuzzPlusUnitTest.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\FizzBuzzPlusUnitTest\FizzBuzzPlusUnitTest\bin\Debug\FizzBuzzPlusUnitTest.pdb
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\FizzBuzzPlusUnitTest\FizzBuzzPlusUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\FizzBuzzPlusUnitTest\FizzBuzzPlusUnitTest\obj\Debug\FizzBuzzPlusUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\FizzBuzzPlusUnitTest\FizzBuzzPlusUnitTest\obj\Debug\FizzBuzzPlusUnitTest.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\FizzBuzzPlusUnitTest\FizzBuzzPlusUnitTest\obj\Debug\FizzBuzzPlusUnitTest.pdb
